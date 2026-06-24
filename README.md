@@ -28,16 +28,14 @@
 ## 📊 Моя GitHub Статистика
 
 <p align="center">
-  <!-- Карточка общей статистики -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cmideas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="cmideas github stats" />
-  
-  <!-- Карточка используемых языков -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmideas&layout=compact&theme=tokyonight" alt="cmideas top languages" />
-</p>
-
-<p align="center">
-  <!-- Стрик коммитов -->
+  <!-- Стрик коммитов (он у тебя работает лучше всего, ставим наверх) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cmideas&theme=tokyonight" alt="cmideas github streak" />
+  <br><br>
+  <!-- Карточка общей статистики -->
+  <img src="https://github-readme-stats.vercel.app/api?username=cmideas&show_icons=true&theme=tokyonight&count_private=true" alt="cmideas github stats" />
+  <br><br>
+  <!-- Карточка используемых языков -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmideas&layout=compact&theme=tokyonight" alt="cmideas top languages" />
 </p>
 
 ---
